@@ -1,4 +1,4 @@
-# Zhihu-Spider
+# Zhihu-Spider\n
 知乎爬虫
 使用语言为Python 2.7.10，配合使用的框架为Scrapy，可以运行在Linux/Windows系统
 运行结果为输出json文件
