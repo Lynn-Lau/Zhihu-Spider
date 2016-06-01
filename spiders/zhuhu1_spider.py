@@ -69,8 +69,8 @@ class ZhihuSpider(CrawlSpider):
                                       # 将验证机制，email,password 填写进去
                                       formdata = {
                                           'xsrf' : xsrf,
-                                          'email' : 'liu.silin@foxmail.com',
-                                          'passsword' : 'liusilin123',
+                                          'email' : 'Your E-mail',
+                                          'passsword' : 'Your Password',
                                       },
                                       # 调用after_login函数
                                       callback = self.after_login,
